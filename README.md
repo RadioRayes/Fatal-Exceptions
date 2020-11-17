@@ -1,5 +1,5 @@
 # Fatal-Exceptions
-A repository for a game I am developing called Fatal Exceptions. Inspired by the FNAF series. If the HTML file does not work on your device (Desktop or mobile), the link in this file's github description should work for you. 
+A repository for a game I am developing called Fatal Exceptions. Inspired by the FNAF series. If the HTML file does not work on your device (Desktop or mobile), the link in this file's github description should work for youif you have a good enough internet connection.  
 
 CONTROLS
 Click the light button next to the window to use the light in the window. 
